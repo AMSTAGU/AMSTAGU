@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Amaury
-#### French student
+#### 🇫🇷 French student
 
 Skills: / JAVA / HTML / CSS / BASH / POSTGRESQL / 
 
