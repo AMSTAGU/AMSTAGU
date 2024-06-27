@@ -1,8 +1,9 @@
 ## Hi there 👋, I'm Amaury
+
 #### 🇫🇷  French second-year student at IUT 2 Grenoble
 
 ##### Skills: JAVA / HTML / CSS / BASH / POSTGRESQL
-<br><br><br>
+<br><br>
 ---
 ### Socials 
 
