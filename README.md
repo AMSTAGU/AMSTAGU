@@ -28,7 +28,7 @@ Actuellement en deuxième année de BUT Informatique, je me passionne pour le d�
 ## 🌳 Projets récents
 - **[Portfolio 2025](https://amaurygau.com)** : Mon portfolio interactif utilisant React, Three.js et Tailwind CSS.  
 - **[Phareaway.fun](https://phareaway.fun)** : Web app de jeu d’énigmes ludiques visant à valoriser le patrimoine français.
-
+- **[Grenoble Tram Calculator](https://amstagu.github.io/r4a10-tp-api-2025-gaua/)** : Application web qui utilise l’API de la SMMAG pour afficher le décompte des deux prochains trams à prendre afin d’arriver à l’heure à sa destination.
 ---
 
 ## 📩 Contact
