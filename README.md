@@ -20,4 +20,4 @@ Bienvenue sur mon profil ! Développeur polyvalent basé à Grenoble, je maîtri
 * 🧹 **[CleanMySims](https://github.com/amstagu/CleanMySims)** - Nettoyeur d'artefacts Xcode natif pour macOS
 * 👀 **[Twenty](https://github.com/AMSTAGU/Twenty)** - App macOS (menu bar) pour la règle visuelle des 20-20-20
 * 🥐 **[CroissantLocker](https://github.com/AMSTAGU/CroissantLocker)** - Anti-croissantage : verrouillage d'écran par mot-clé
-* 🚊 **[Grenoble Tram Calculator](https://amstagu.github.io/r4a10-tp-api-2025-gaua/)** - Horaires et directions des tramways (SMMAG) en temps réel
+* 🚊 **[Grenoble Tram Calculator](https://github.com/AMSTAGU/GrenobleTramCalculator)** - Horaires et directions des tramways (SMMAG) en temps réel
