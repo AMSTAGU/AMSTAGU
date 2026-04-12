@@ -17,8 +17,8 @@ Bienvenue sur mon profil ! Développeur polyvalent basé à Grenoble, je maîtri
 
 ## Projets Récents
 
+* 📋 **[ClipDrop](https://github.com/AMSTAGU/ClipDrop)** - Partage de presse-papier entre Macs via AirDrop
 * 🧹 **[CleanMySims](https://github.com/amstagu/CleanMySims)** - Nettoyeur d'artefacts Xcode natif pour macOS
 * 👀 **[Twenty](https://github.com/AMSTAGU/Twenty)** - App macOS (menu bar) pour la règle visuelle des 20-20-20
 * 🥐 **[CroissantLocker](https://github.com/AMSTAGU/CroissantLocker)** - Anti-croissantage : verrouillage d'écran par mot-clé
 * 🚊 **[Grenoble Tram Calculator](https://github.com/AMSTAGU/GrenobleTramCalculator)** - Horaires et directions des tramways (SMMAG) en temps réel
-* 📋 **[ClipDrop](https://github.com/AMSTAGU/ClipDrop)** - Partage de presse-papier entre Macs via AirDrop
